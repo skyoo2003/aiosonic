@@ -23,3 +23,5 @@ logs/*.log*
 junit/
 env/
 venv*/
+aiosonic/**/*.so
+aiosonic/**/*.c
